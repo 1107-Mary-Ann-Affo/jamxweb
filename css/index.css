@@ -5,6 +5,10 @@ body {
   padding: 0;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 .mainheading {
   margin-top: 50px;
   text-align: center;
